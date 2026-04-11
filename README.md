@@ -48,6 +48,8 @@ Open-Meteo Weather API  (free, no API key)
 
 **Cities covered:** Karachi · London · New York · Tokyo
 
+![architectiure-airflow](./architectiure-airflow.png)
+
 ---
 
 ## Prerequisites
